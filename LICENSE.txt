@@ -1,0 +1,9 @@
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+This project uses data originally published by Faramarz Bagehrzadeh on Mendeley Data:
+
+"Full Scale Wastewater Treatment Plant Data"  
+DOI: https://doi.org/10.17632/pprkvz3vbd.1  
+License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+I have modified the data for analysis purposes. This project and all derived works are shared under the same license (CC BY-SA 4.0).
