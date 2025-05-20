@@ -33,4 +33,4 @@ Each category is analyzed using descriptive statistics (mean, median, standard d
 
 Original dataset by Faramarz Bagehrzadeh, available on [Mendeley Data](https://data.mendeley.com/datasets/pprkvz3vbd/1)  
 Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
-Modified the original CSV file by cleaning and restructuring the data.
+Modified the original CSV file by restructuring the data.
